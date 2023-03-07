@@ -5,6 +5,11 @@ Learn With Me streams every Monday and Wednesday at 1pm EST on the NVIDIA Omnive
 
 https://www.youtube.com/@NVIDIAOmniverse/streams
 
+Playlist of the previously recorded streams:
+
+https://youtube.com/playlist?list=PLPR2h_elPvVKH9HLtdgfXNUxGeN6QAlc7
+
+
 This USD works in Omniverse Create and Isaac Sim 2022.2.0 and later versions
 
 Contributors/Inspired Authors:
