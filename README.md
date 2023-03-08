@@ -10,11 +10,14 @@ Playlist of the previously recorded streams:
 https://youtube.com/playlist?list=PLPR2h_elPvVKH9HLtdgfXNUxGeN6QAlc7
 
 
-This USD works in Omniverse Create and Isaac Sim 2022.2.0 and later versions
+This USD works in Omniverse Create and Isaac Sim 2022.2.0 and later versions.
+
+Check out the Tests folder for simple test scenes.
 
 Contributors/Inspired Authors:
 
 Alberto Arenas / Omniverse Ambassador- Camera Constraint ActionGraph
+
 Mathew Schwartz / NJIT - Behavior Scripts for Detecting Collision
 
 
